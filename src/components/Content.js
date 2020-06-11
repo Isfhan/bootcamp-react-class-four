@@ -24,10 +24,11 @@ function Content(props) {
             </div>
 
             <div className="container">
-                
+                <h2>Select Company</h2>
                 <div className="row">
+                
                     <div className="col-md-4">
-                        <h2>Select Company</h2>
+                        
                         <div className="alert alert-info">
                             Click on buttons to change the state.
                         </div>
