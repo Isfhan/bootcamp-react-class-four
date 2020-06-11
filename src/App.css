@@ -1,0 +1,10 @@
+.footer
+{
+  text-align: center;
+  background-color: darkblue;
+  color: white;
+  padding: 10px;
+  text-transform: capitalize;
+  margin: 50px 0 0 0;
+  font-size: 17px;
+}
