@@ -25,7 +25,7 @@ function Content(props) {
 
             <div className="container">
                 <h2>Select Company</h2>
-                <p>The most popular tech companies </p>
+                <p>Click on buttons to change the state</p>
                 <div className="row">
                     <div className="col-sm-3">
                         <ul className="nav flex-column">
